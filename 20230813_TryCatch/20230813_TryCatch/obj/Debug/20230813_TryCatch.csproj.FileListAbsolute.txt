@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\bin\Debug\20230813_TryCatch.exe.config
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\bin\Debug\20230813_TryCatch.exe
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\bin\Debug\20230813_TryCatch.pdb
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\obj\Debug\20230813_TryCatch.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\obj\Debug\20230813_TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\obj\Debug\20230813_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\obj\Debug\20230813_TryCatch.exe
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch\20230813_TryCatch\obj\Debug\20230813_TryCatch.pdb
